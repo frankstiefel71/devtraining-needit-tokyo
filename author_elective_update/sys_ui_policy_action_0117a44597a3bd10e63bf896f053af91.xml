@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>closed_by</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 13:21:18</sys_created_on>
+        <sys_id>0117a44597a3bd10e63bf896f053af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>closed_by</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0117a44597a3bd10e63bf896f053af91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 13:21:18</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Make statistic fields visible on status Closed Coplete only">36766cc597a3bd10e63bf896f053afc3</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>88c7f317db40f284536ad5b0cf9619b1</instance_id>
+        <instance_name>dev27581</instance_name>
+        <name>sys_ui_policy_action_0117a44597a3bd10e63bf896f053af91</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>closed_by</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 13:21:18</sys_created_on><sys_id>0117a44597a3bd10e63bf896f053af91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>closed_by</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_0117a44597a3bd10e63bf896f053af91</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 13:21:18</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Make statistic fields visible on status Closed Coplete only">36766cc597a3bd10e63bf896f053afc3</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>543380801</payload_hash>
+        <record_name>closed_by</record_name>
+        <reverted_from/>
+        <source>67529e8197173110e63bf896f053af52</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 13:21:18</sys_created_on>
+        <sys_id>4627244597a3bd10e63bf896f053af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ccf7c4a6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 13:21:18</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>8e2724454ca3bd101007a8b5a02b9d9a</update_guid>
+        <update_guid_history>8e2724454ca3bd101007a8b5a02b9d9a:543380801</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 13:28:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>0bd4bbdf138441698c955386401fc619</sys_id>
+        <sys_metadata>0117a44597a3bd10e63bf896f053af91</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>closed_by</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">36766cc597a3bd10e63bf896f053afc3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_0117a44597a3bd10e63bf896f053af91</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_0117a44597a3bd10e63bf896f053af91">4627244597a3bd10e63bf896f053af9b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 13:28:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
